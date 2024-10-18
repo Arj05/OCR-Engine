@@ -34,7 +34,7 @@ You can install the necessary Python packages using pip:
 
 ## Usage
 
-1. Run the application:
+1. **Run the application:**
 - python main.py
 - Click on the "Display Text from Image" button to extract text from the specified image.
 - Ensure that the image path in the code is correctly set to the location of your JFIF image.
